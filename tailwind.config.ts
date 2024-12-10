@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily:{
+        nunito:["var(--nunito"]
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
